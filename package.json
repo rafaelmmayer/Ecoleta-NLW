@@ -1,0 +1,28 @@
+{
+  "name": "nlw",
+  "version": "1.0.0",
+  "description": "Projeto criado a partir da Next Level Week",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelmmayer/Ecoleta-NLW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafaelmmayer/Ecoleta-NLW/issues"
+  },
+  "homepage": "https://github.com/rafaelmmayer/Ecoleta-NLW#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
